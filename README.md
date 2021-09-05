@@ -29,8 +29,12 @@
 ## Contact
 
 * Irzan Fajari Nurahmadan - [@irzanfajari](https://twitter.com/irzanfajari) - irzanfajari@gmail.com
+* Roihan Mufli Arjuna - roihanmufli27@gmail.com
+* Herlambang Dwi Prasetyo - herlambangdwi.prasetyo@gmail.com
+* Pandu Ananto Hogantara - panduanantoh@gmail.com
 
-Project Link: [https://github.com/irzanfn/WastedClassification](https://github.com/irzanfn/WastedClassification)
+<p>Project Link: https://github.com/irzanfn/WasteClassification</p>
+<p>Mobile Based Implementation : https://github.com/irzanfn/TrashApp</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
